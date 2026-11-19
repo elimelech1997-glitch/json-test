@@ -1,9 +1,4 @@
-{
-  "store": {
-    "name": "My Online Store",
-    "currency": "ILS",
-    "last_updated": "2026-11-19"
-  },
+
   "products": [
     {
       "id": "PROD-001",
@@ -57,4 +52,3 @@
       "image_url": "https://example.com/images/headphones.jpg"
     }
   ]
-}
