@@ -1,0 +1,60 @@
+{
+  "store": {
+    "name": "My Online Store",
+    "currency": "ILS",
+    "last_updated": "2026-11-19"
+  },
+  "products": [
+    {
+      "id": "PROD-001",
+      "sku": "TSHIRT-BLK-M",
+      "name": "חולצת טריקו שחורה קלאסית",
+      "description": "100% כותנה איכותית, גזרה נוחה ליום-יום.",
+      "category": "ביגוד",
+      "price": 79.9,
+      "discount_price": 59.9,
+      "in_stock": true,
+      "stock_quantity": 45,
+      "tags": [
+        "חולצות",
+        "בסיס",
+        "שחור"
+      ],
+      "image_url": "https://example.com/images/tshirt-black.jpg"
+    },
+    {
+      "id": "PROD-002",
+      "sku": "MUG-CER-WHT",
+      "name": "ספל קרמיקה מעוצב",
+      "description": "ספל קפה בנפח 350 מ\"ל, מתאים למדיח כלים ולמיקרוגל.",
+      "category": "כלי בית",
+      "price": 39.0,
+      "discount_price": null,
+      "in_stock": true,
+      "stock_quantity": 120,
+      "tags": [
+        "מטבח",
+        "קפה",
+        "מתנות"
+      ],
+      "image_url": "https://example.com/images/mug-white.jpg"
+    },
+    {
+      "id": "PROD-003",
+      "sku": "HEADPHONES-BT-01",
+      "name": "אוזניות אלחוטיות מבטלות רעשים",
+      "description": "סוללה עד 30 שעות, חיבור Bluetooth 5.3 ומיקרופון מובנה.",
+      "category": "אלקטרוניקה",
+      "price": 349.0,
+      "discount_price": 299.0,
+      "in_stock": false,
+      "stock_quantity": 0,
+      "tags": [
+        "אודיו",
+        "אלחוטי",
+        "גאדג'טים"
+      ],
+      "image_url": "https://example.com/images/headphones.jpg"
+    }
+  ]
+}
